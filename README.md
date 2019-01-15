@@ -5,3 +5,4 @@
 oh-my-zsh
 
 antigen
+`sudo apt-get install zsh-antigen`
